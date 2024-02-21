@@ -2,9 +2,9 @@
 - 👀 I’m interested in Embedded Software 
 - 🌱 I’m currently learning BLE stacks for Zephyr API 
 - 💞️ I’m looking to collaborate on medical devices
-- 📫 How to reach me on github :) 
+- 📫 How to reach me: rivera.hidalgo23@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I've traveled to 4/7 continents
 
 <!---
 a-rivera-hidalgo/a-rivera-hidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
