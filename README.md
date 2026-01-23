@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-rivera-hidalgo
 - 👀 I’m interested in Embedded Software 
-- 🌱 I’m currently learning BLE stacks for Zephyr API 
+- 🌱 My expertise is in BLE and Embedded C
 - 💞️ I’m looking to collaborate on medical devices
 - 📫 How to reach me: rivera.hidalgo23@gmail.com
 - 😄 Pronouns: she/her
