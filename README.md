@@ -1,11 +1,5 @@
-
-- 👀 I’m interested in Embedded Software Collaboration
-- 🌱 My expertise is in BLE and Embedded C
-- 💞️ I’m looking to collaborate on medical devices
-- 📫 How to reach me: rivera.hidalgo23@gmail.com
-- 😄 Pronouns: she/her
 <h1 align="center">Hi, I'm Alex Rivera 💌👋🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
+<h3 align="center"> Medical Device Firmware Engineer | Inventor</h3>
 
 <p align="center">
   <a href="mailto:rivera.hidalgo23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,26 +10,32 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+  <legend align="left"><h3>👩🏻‍💻 About Me</h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+I have loved computers since before I could read, so I made it a career and hobby. I work for a start-up and develop firmware for medical grade wearables in the neuro-tech space. In my free time I am developing a series of giveaways from my own embedded projects I've created or products from collaborators.
+    <br>
+    <br>
+  - 👀 I’m interested in Embedded Software Collaboration
+    <br>
+  - 🌱 My expertise is in BLE and Embedded C
+    <br>
+  </p>
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Skills </i></b> 
 </div>
 
 <br>
   
 <p style="display: inline-block;" align="center">
    <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Embedded Firmware</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </kbd>
   <kbd>
@@ -47,12 +47,11 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  <kbd>Hardware</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://cdn.simpleicons.org/kicad" alt="kicad"/>
+  <img width="30px" src="https://cdn.simpleicons.org/altium" alt="altium"/>
   </kbd>
   <kbd>
     <kbd>Outros</kbd>
@@ -61,9 +60,6 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
     <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
   <br>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
@@ -80,7 +76,7 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
 <br>
 
 - 📫 Contact for personal project collaboration: **rivera.hidalgo23@gmail.com**
-- 📫 Contactfor Tilted Tips Repo: **a.riverahidalgo@tiltedtips.com**
+- 📫 Contact for Tilted Tips Inquiries: **a.riverahidalgo@tiltedtips.com**
 
 <p align="center"> 
 
