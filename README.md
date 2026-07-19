@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 About Me</h3></legend>
 
   <em>
-I have loved computers since before I could read, so I made it a career and hobby. I work for a start-up and develop firmware for medical grade wearables in the neuro-tech space. In my free time I am developing a series of giveaways from my own embedded projects I've created or products from collaborators.
+I have loved computers since the 1990s, so I made it a career and hobby. I work for a start-up and develop firmware for medical grade wearables in the neuro-tech space. In my free time I am developing a series of giveaways from my own embedded projects I've created or products from collaborators.
     <br>
     <br>
   - 👀 I’m interested in Embedded Software Collaboration
